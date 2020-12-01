@@ -1,4 +1,3 @@
-# theory
- New TEMPLETE
+# THEORY
 
-Your site is published at https://mk-knight23.github.io/theory
+# DEMO : https://mk-knight23.github.io/theory
